@@ -9,7 +9,6 @@
 <p>Web service avec un simple Serveur JaxWS</p>
 url= http://0.0.0.0:8888/
 <img src="Captures/Capture2.PNG" alt="Serveur JaxWS">
-<img src="Captures/Capture2.PNG" alt="Serveur JaxWS">
 <p>analyser le WSDL avec un Browser HTTP</p>
 <img src="Captures/Capture.PNG" alt="WSDL">
 <P>Tester les opérations du web service avec un outil SoapUI</P>
@@ -17,5 +16,5 @@ url= http://0.0.0.0:8888/
 <img src="Captures/Capture5.PNG" alt="request2:getCompte">
 <img src="Captures/Capture6.PNG" alt="request3:getComptes">
 <p>Client SOAP Java</p>
-<img src="Captures/Capture3.PNG" alt="ClientJava">
+<img src="Captures/Capture3.PNG" alt="SOAP Java">
 
